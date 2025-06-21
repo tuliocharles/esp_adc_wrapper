@@ -1,0 +1,21 @@
+license: MIT
+
+description: TOP LEVEL ADC 
+  - This component is a wrapper for the ESP-IDF ADC component.
+  
+url: https://github.com/tuliocharles/esp_adc_wrapper
+repository: https://github.com/tuliocharles/esp_adc_wrapper.git
+
+maintainers:
+  - "Túlio Carvalho <tulio.cefetmg@gmail.com"
+
+dependencies:
+  idf: ">=5.4"
+
+files:
+  excludes:
+    - build/
+    - sdkconfig
+    - "**/dependencies.lock"
+    - .vscode/
+    - dist/  

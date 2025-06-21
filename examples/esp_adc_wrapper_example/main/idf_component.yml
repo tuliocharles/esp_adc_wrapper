@@ -1,0 +1,6 @@
+dependencies:
+  tuliocharles/esp_adc_wrapper:
+    version: "*"
+    # for local developmente, use the local
+    # copy of the component
+    override_path: "../../../"
