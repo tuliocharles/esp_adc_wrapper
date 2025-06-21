@@ -3,4 +3,4 @@ dependencies:
     version: "*"
     # for local developmente, use the local
     # copy of the component
-    override_path: "../../../"
+    # override_path: "../../../"
